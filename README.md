@@ -29,4 +29,4 @@ I do not full time host this bot as the functionality of it has been largely mad
 
 Good instructions to create a new bot can be found on the [free code camp website](https://www.freecodecamp.org/news/create-a-discord-bot-with-python/). The ```arena_bot.py``` script can then be used as the code for the bot.
 
-To set the bot to host continuously, there are a number of paid services that specialise in bot and server hosting. Alternatively, I would recommend hosting your own virtual machine compute instance on [Oracle Cloud](https://www.oracle.com/uk/cloud/compute/virtual-machines/) as they have a fairly generous free tier that is more than enough to host a simple bot.
+To set the bot to run continuously, the easiest way would be to use one of the many paid services that specialise in bot and server hosting. Alternatively, I would recommend hosting your own virtual machine compute instance on [Oracle Cloud](https://www.oracle.com/uk/cloud/compute/virtual-machines/) as they have a fairly generous free tier that is more than enough to host a simple bot.
